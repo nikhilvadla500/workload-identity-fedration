@@ -1,5 +1,5 @@
 resource "google_storage_bucket" "gcs_bucket" {
-  name     = "bkt-demo-000"
+  name     = "bkt-demo-000-2026"
   location = "us-central1"
 
   uniform_bucket_level_access = true   # 🔥 IMPORTANT
